@@ -1,0 +1,125 @@
+Opening data.csv...
+Unique routes by airlines: 2763
+
+
+######### Airline Route Records Database MENU #########
+1. Search by Route
+2. Search by Origin Airport
+3. Search by Destination Airport
+4. Search by Airline
+5. Quit
+Enter your selection: 
+Enter origin: 
+Enter destination: 
+
+Search by route...
+BA (LAX-LHR) EB (LAX-LHR) E9 (LAX-LHR) VS (LAX-LHR) UA (LAX-LHR) NZ (LAX-LHR) AA (LAX-LHR) 
+7 matches were found.
+
+Statistics
+Total Passangers:                 323437
+
+Total Passangers in Month 1:      127446
+Total Passangers in Month 2:      111471
+Total Passangers in Month 3:       72703
+Total Passangers in Month 4:        4734
+Total Passangers in Month 5:        3304
+Total Passangers in Month 6:        3779
+
+Average Passengers per Month:      53906
+
+
+######### Airline Route Records Database MENU #########
+1. Search by Route
+2. Search by Origin Airport
+3. Search by Destination Airport
+4. Search by Airline
+5. Quit
+Enter your selection: 
+Enter origin: 
+
+Search by origin...
+CX (SFO-HKG) PR (SFO-CEB) CI (SFO-TPE) AS (SFO-PVR) AC (SFO-YYZ) LH (SFO-MUC) BA (SFO-LHR) NH (SFO-NRT) BR (SFO-TPE) PR (SFO-MNL) AC (SFO-YVR) OZ (SFO-ICN) KE (SFO-ICN) UA (SFO-FRA) UA (SFO-SYD) UA (SFO-NRT) AI (SFO-DEL) LF (SFO-FAB) UA (SFO-DEL) CZ (SFO-CAN) CZ (SFO-KMG) CZ (SFO-CGO) CZ (SFO-SJW) AI (SFO-BOM) CZ (SFO-SHE) CZ (SFO-TAO) UA (SFO-SJD) AS (SFO-SJD) UA (SFO-CUN) UA (SFO-PVR) MU (SFO-PVG) CA (SFO-NKG) UA (SFO-MEL) UA (SFO-ICN) QK (SFO-YVR) JL (SFO-HND) AM (SFO-GDL) BA (SFO-LGW) EB (SFO-BEG) OO (SFO-YVR) EB (SFO-CRK) FJ (SFO-NAN) QK (SFO-YEG) LY (SFO-TLV) IB (SFO-BCN) DY (SFO-BCN) QK (SFO-YYC) CA (SFO-PEK) DY (SFO-CDG) BF (SFO-PPT) UA (SFO-KIX) BF (SFO-ORY) TP (SFO-LIS) QF (SFO-BNE) QF (SFO-MEL) UA (SFO-CDG) OO (SFO-YYC) UA (SFO-YYZ) UA (SFO-PPT) SK (SFO-CPH) UA (SFO-HND) LX (SFO-ZRH) UA (SFO-TPE) DI (SFO-LGW) AC (SFO-YUL) LH (SFO-FRA) UA (SFO-MUC) TA (SFO-SAL) QF (SFO-SYD) EI (SFO-DUB) UA (SFO-MEX) UA (SFO-TLV) AF (SFO-CDG) AM (SFO-MEX) CM (SFO-PTY) UA (SFO-SIN) VS (SFO-LHR) KL (SFO-AMS) SQ (SFO-SIN) UA (SFO-LHR) UA (SFO-AKL) TK (SFO-IST) NZ (SFO-AKL) EK (SFO-DXB) UA (SFO-YVR) AN (SFO-YYC) UA (SFO-BOM) CZ (SFO-WUH) MU (SFO-TAO) UA (SFO-CTU) UA (SFO-BCN) UA (SFO-PEK) UA (SFO-PVG) UA (SFO-HKG) SQ (SFO-HKG) CX (SFO-NRT) FI (SFO-KEF) CX (SFO-KIX) 4O (SFO-GDL) 
+99 matches were found.
+
+Statistics
+Total Passangers:                2560583
+
+Total Passangers in Month 1:     1183469
+Total Passangers in Month 2:      840282
+Total Passangers in Month 3:      433704
+Total Passangers in Month 4:       44483
+Total Passangers in Month 5:       17104
+Total Passangers in Month 6:       41541
+
+Average Passengers per Month:     426763
+
+
+######### Airline Route Records Database MENU #########
+1. Search by Route
+2. Search by Origin Airport
+3. Search by Destination Airport
+4. Search by Airline
+5. Quit
+Enter your selection: 
+Enter destination: 
+
+Search by destination...
+JL (LAX-KIX) UA (SFO-KIX) UA (GUM-KIX) DL (HNL-KIX) JL (HNL-KIX) HA (HNL-KIX) D7 (HNL-KIX) CX (ORD-KIX) CX (SFO-KIX) 
+9 matches were found.
+
+Statistics
+Total Passangers:                 197847
+
+Total Passangers in Month 1:       87720
+Total Passangers in Month 2:       77050
+Total Passangers in Month 3:       32397
+Total Passangers in Month 4:         497
+Total Passangers in Month 5:           0
+Total Passangers in Month 6:         183
+
+Average Passengers per Month:      32974
+
+
+######### Airline Route Records Database MENU #########
+1. Search by Route
+2. Search by Origin Airport
+3. Search by Destination Airport
+4. Search by Airline
+5. Quit
+Enter your selection: 
+Enter airline: 
+
+Search by airline...
+LO (ORD-WAW) LO (JFK-WAW) LO (IAD-WAW) LO (JFK-KIV) LO (JFK-BUD) LO (EWR-WAW) LO (LAX-WAW) LO (MIA-WAW) LO (ORD-KRK) 
+9 matches were found.
+
+Statistics
+Total Passangers:                 111330
+
+Total Passangers in Month 1:       48891
+Total Passangers in Month 2:       36994
+Total Passangers in Month 3:       20439
+Total Passangers in Month 4:         787
+Total Passangers in Month 5:        2450
+Total Passangers in Month 6:        1769
+
+Average Passengers per Month:      18555
+
+
+######### Airline Route Records Database MENU #########
+1. Search by Route
+2. Search by Origin Airport
+3. Search by Destination Airport
+4. Search by Airline
+5. Quit
+Enter your selection: Invalid choice.
+
+
+######### Airline Route Records Database MENU #########
+1. Search by Route
+2. Search by Origin Airport
+3. Search by Destination Airport
+4. Search by Airline
+5. Quit
+Enter your selection: Good-bye!
